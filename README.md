@@ -9,3 +9,4 @@
 🪙 Day 4: Domain-Specific LLMs - Delve into creating and applying specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
 🪙 Day 5: MLOps for Generative AI - Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+                                                       -----------------------------Working----------------------------
