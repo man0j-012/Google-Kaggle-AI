@@ -11,4 +11,4 @@
 🪙 Day 5: MLOps for Generative AI - Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
 
 
-                                                       -----------------------------Working----------------------------
+                                      -----------------------------Working----------------------------
