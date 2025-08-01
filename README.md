@@ -1,4 +1,4 @@
-🔥 Kaggle's 5-Day Gen AI Intensive Course
+🔥 Kaggle's 5-Day Gen AI Intensive Course ( I have done it!! Yay - Got some Google Goodies!)
 
 🪙 Day 1: Foundational Models & Prompt Engineering - Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
 
